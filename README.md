@@ -1,5 +1,5 @@
 # PyBer Analysis - Module 5 Challenge
-<sub>Chapel Hill - Data Science Bootcamp</sub>
+<sub>UNC Chapel Hill Data Analytics Bootcamp</sub>
 
 ## Overview of Project
 For Module 5, Pandas and Matplotlib were utilized to summarize and graph the ride-sharing data from PyBer by city type. Using the given CSV files with city and ride data, the information was combined into a singular dataframe, which was then manipulated to summarize and analyze weekly fares across rural, suburban, and urban cities.
